@@ -1,0 +1,157 @@
+location,date,vaccine,total_vaccinations
+Argentina,3/29/22,CanSino,610540
+Argentina,3/29/22,Moderna,6507561
+Argentina,3/29/22,Oxford/AstraZeneca,25977231
+Argentina,3/29/22,Pfizer/BioNTech,14681054
+Argentina,3/29/22,Sinopharm/Beijing,28322602
+Argentina,3/29/22,Sputnik V,20405678
+Austria,3/25/22,Johnson&Johnson,363548
+Austria,3/25/22,Moderna,1585063
+Austria,3/25/22,Novavax,3682
+Austria,3/25/22,Oxford/AstraZeneca,1588222
+Austria,3/25/22,Pfizer/BioNTech,14584985
+Belgium,3/25/22,Johnson&Johnson,425639
+Belgium,3/25/22,Moderna,4267394
+Belgium,3/25/22,Novavax,36
+Belgium,3/25/22,Oxford/AstraZeneca,2846716
+Belgium,3/25/22,Pfizer/BioNTech,17451842
+Bulgaria,3/18/22,Johnson&Johnson,511702
+Bulgaria,3/18/22,Moderna,491663
+Bulgaria,3/18/22,Oxford/AstraZeneca,478541
+Bulgaria,3/18/22,Pfizer/BioNTech,2852218
+Chile,3/22/22,CanSino,574442
+Chile,3/22/22,Oxford/AstraZeneca,549396
+Chile,3/22/22,Pfizer/BioNTech,7910264
+Chile,3/22/22,Sinovac,25596927
+Croatia,3/25/22,Johnson&Johnson,201126
+Croatia,3/25/22,Moderna,508787
+Croatia,3/25/22,Novavax,220
+Croatia,3/25/22,Pfizer/BioNTech,3921503
+Cyprus,3/18/22,Johnson&Johnson,30003
+Cyprus,3/18/22,Moderna,186468
+Cyprus,3/18/22,Novavax,45
+Cyprus,3/18/22,Oxford/AstraZeneca,254527
+Cyprus,3/18/22,Pfizer/BioNTech,1188656
+Czechia,3/29/22,Johnson&Johnson,412627
+Czechia,3/29/22,Moderna,1584930
+Czechia,3/29/22,Novavax,3046
+Czechia,3/29/22,Pfizer/BioNTech,14604323
+Denmark,3/25/22,Johnson&Johnson,46934
+Denmark,3/25/22,Moderna,1708672
+Denmark,3/25/22,Pfizer/BioNTech,10259219
+Estonia,3/18/22,Johnson&Johnson,77815
+Estonia,3/18/22,Moderna,231853
+Estonia,3/18/22,Novavax,143
+Estonia,3/18/22,Oxford/AstraZeneca,237715
+Estonia,3/18/22,Pfizer/BioNTech,1488804
+European Union,3/29/22,Covaxin,11
+European Union,3/29/22,Johnson&Johnson,18556428
+European Union,3/29/22,Moderna,145331851
+European Union,3/29/22,Novavax,118968
+European Union,3/29/22,Oxford/AstraZeneca,67403106
+European Union,3/29/22,Pfizer/BioNTech,600519998
+European Union,3/29/22,Sinopharm/Beijing,2301516
+European Union,3/29/22,Sinovac,1809
+European Union,3/29/22,Sputnik V,1845103
+Finland,3/25/22,Johnson&Johnson,0
+Finland,3/25/22,Moderna,1886487
+Finland,3/25/22,Oxford/AstraZeneca,553785
+Finland,3/25/22,Pfizer/BioNTech,9235420
+France,3/28/22,Johnson&Johnson,1085968
+France,3/28/22,Moderna,23535156
+France,3/28/22,Oxford/AstraZeneca,7857861
+France,3/28/22,Pfizer/BioNTech,109187212
+Germany,3/29/22,Johnson&Johnson,3628087
+Germany,3/29/22,Moderna,29435818
+Germany,3/29/22,Novavax,76908
+Germany,3/29/22,Oxford/AstraZeneca,12757971
+Germany,3/29/22,Pfizer/BioNTech,126041243
+Hong Kong,3/27/22,Pfizer/BioNTech,8879482
+Hong Kong,3/27/22,Sinovac,6064982
+Hungary,3/18/22,Johnson&Johnson,334136
+Hungary,3/18/22,Moderna,1047347
+Hungary,3/18/22,Oxford/AstraZeneca,1252385
+Hungary,3/18/22,Pfizer/BioNTech,9298462
+Hungary,3/18/22,Sinopharm/Beijing,2300518
+Iceland,3/28/22,Johnson&Johnson,85
+Iceland,3/28/22,Moderna,6493
+Iceland,3/28/22,Oxford/AstraZeneca,1
+Iceland,3/28/22,Pfizer/BioNTech,76558
+Italy,3/29/22,Moderna,33612044
+Italy,3/29/22,Novavax,30003
+Italy,3/29/22,Pfizer/BioNTech,88556058
+Latvia,3/28/22,Johnson&Johnson,293169
+Latvia,3/28/22,Moderna,710330
+Latvia,3/28/22,Novavax,198
+Latvia,3/28/22,Pfizer/BioNTech,1608147
+Liechtenstein,3/18/22,Johnson&Johnson,262
+Liechtenstein,3/18/22,Moderna,47041
+Liechtenstein,3/18/22,Pfizer/BioNTech,22859
+Lithuania,3/18/22,Johnson&Johnson,294701
+Lithuania,3/18/22,Moderna,327864
+Lithuania,3/18/22,Oxford/AstraZeneca,536493
+Lithuania,3/18/22,Pfizer/BioNTech,3289779
+Luxembourg,3/25/22,Johnson&Johnson,41518
+Luxembourg,3/25/22,Moderna,299677
+Luxembourg,3/25/22,Novavax,151
+Luxembourg,3/25/22,Oxford/AstraZeneca,105267
+Luxembourg,3/25/22,Pfizer/BioNTech,696897
+Malta,3/18/22,Johnson&Johnson,32305
+Malta,3/18/22,Moderna,236334
+Malta,3/18/22,Oxford/AstraZeneca,227809
+Malta,3/18/22,Pfizer/BioNTech,705757
+Nepal,3/29/22,Johnson&Johnson,3339665
+Nepal,3/29/22,Moderna,5630789
+Nepal,3/29/22,Oxford/AstraZeneca,10764832
+Nepal,3/29/22,Pfizer/BioNTech,619997
+Nepal,3/29/22,Sinopharm/Beijing,19580285
+Netherlands,3/18/22,Johnson&Johnson,868541
+Netherlands,3/18/22,Moderna,6361300
+Netherlands,3/18/22,Novavax,323
+Netherlands,3/18/22,Oxford/AstraZeneca,2800824
+Netherlands,3/18/22,Pfizer/BioNTech,23997608
+Norway,3/18/22,Johnson&Johnson,7108
+Norway,3/18/22,Moderna,2262005
+Norway,3/18/22,Oxford/AstraZeneca,147371
+Norway,3/18/22,Pfizer/BioNTech,8840179
+Peru,3/26/22,Oxford/AstraZeneca,5399621
+Peru,3/26/22,Pfizer/BioNTech,39848993
+Peru,3/26/22,Sinopharm/Beijing,20304277
+Poland,3/25/22,Johnson&Johnson,2682644
+Poland,3/25/22,Moderna,3632801
+Poland,3/25/22,Novavax,3772
+Poland,3/25/22,Oxford/AstraZeneca,5288990
+Poland,3/25/22,Pfizer/BioNTech,38515444
+Portugal,3/18/22,Moderna,3571688
+Portugal,3/18/22,Pfizer/BioNTech,14981060
+Romania,3/28/22,Johnson&Johnson,2048128
+Romania,3/28/22,Moderna,1005460
+Romania,3/28/22,Pfizer/BioNTech,12833739
+Slovakia,3/25/22,Johnson&Johnson,183250
+Slovakia,3/25/22,Moderna,672106
+Slovakia,3/25/22,Novavax,300
+Slovakia,3/25/22,Pfizer/BioNTech,5080520
+South Africa,3/30/22,Johnson&Johnson,8190515
+South Africa,3/30/22,Pfizer/BioNTech,25379326
+South Korea,3/29/22,Johnson&Johnson,1542317
+South Korea,3/29/22,Moderna,24227253
+South Korea,3/29/22,Novavax,184429
+South Korea,3/29/22,Oxford/AstraZeneca,20315509
+South Korea,3/29/22,Pfizer/BioNTech,74173406
+Spain,3/18/22,Johnson&Johnson,1980123
+Spain,3/18/22,Moderna,23568112
+Spain,3/18/22,Oxford/AstraZeneca,9792319
+Spain,3/18/22,Pfizer/BioNTech,65141278
+Sweden,3/18/22,Moderna,3450728
+Sweden,3/18/22,Novavax,108
+Sweden,3/18/22,Oxford/AstraZeneca,1328640
+Sweden,3/18/22,Pfizer/BioNTech,14709074
+Switzerland,3/28/22,Johnson&Johnson,60033
+Switzerland,3/28/22,Moderna,9762673
+Switzerland,3/28/22,Pfizer/BioNTech,5797151
+United States,3/29/22,Johnson&Johnson,18563903
+United States,3/29/22,Moderna,210341785
+United States,3/29/22,Pfizer/BioNTech,330748673
+Uruguay,3/29/22,Oxford/AstraZeneca,90732
+Uruguay,3/29/22,Pfizer/BioNTech,2476595
+Uruguay,3/29/22,Sinovac,3247932
